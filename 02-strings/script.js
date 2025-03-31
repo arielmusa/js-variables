@@ -10,6 +10,15 @@ console.log(name);
 // un numero, una stringa e un valore booleano.
 // Stampa tutti i valori nella console.
 
+const number = 42;
+console.log(number);
+
+const text = "solution";
+console.log(text);
+
+const bool = true;
+console.log(bool);
+
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
 // e le variabili sopra in modo da stampare correttamente
 // in console la stringa con il nome completo
